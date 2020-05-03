@@ -1,0 +1,55 @@
+body{ 
+    
+   /* display: flex;
+    margin-top: 20px ;
+    padding: 20px 5px;
+    margin-left:5px; 
+    
+    line-height: 1.85714286em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: Rubik,'Helvetica','Arial',sans-serif;
+    color: #1c465d;
+    font-weight: 400; 
+    font: 10px "Century Gothic", Futura, sans-serif;
+    font-size: 1vw;
+    /*
+    
+    /*text-align: center;} */
+    background-color: rgb(247, 250, 217);
+    padding-top: 10vh;
+    
+}
+.backgnd{
+    background-color: rgb(182, 248, 179);
+    max-width: 300px;
+    margin: auto;
+    height: auto;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 black;
+}
+
+.input-box{
+    padding:5px 2px;
+}
+
+.cdinput{
+    /* customer details input tag class*/
+    background-color: aliceblue;
+    margin-top: 10px; 
+}
+.cdtr{
+    /* customer details row div class*/
+    /*background-color: aliceblue; */
+    margin-top: 10px; 
+}
+
+button{
+    margin: 10px;  
+    margin-left: auto;
+    /*text-align: center;*/
+    background-color: green;
+    color: white;
+    padding: 2px 65px 2px 65px ; 
+}
